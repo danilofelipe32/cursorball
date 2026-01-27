@@ -1,7 +1,7 @@
 # Cursor Ball
 by fishyramen
 
-Cursor Ball is a minimal 2D reflex game where you deflect a ball using your cursor while managing pressure from a shrinking timer. The goal is to keep the ball from reaching your back wall and outlast your opponent.
+Cursor Ball is a minimal 2D reflex game where you deflect a ball using your cursor while managing pressure from a shrinking timer. The goal is to keep the ball from reaching your back wall and outlast the bot (I plan on adding multiplayer but maybe some other time).
 
 ## How to Run
 
