@@ -40,3 +40,8 @@ npx serve
 - Playstyle: Defense to offense balance
 - Sound and volume
 - Fullscreen toggle
+
+---
+
+© 2026 fishyramen. All rights reserved.
+
